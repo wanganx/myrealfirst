@@ -1,9 +1,1 @@
-sunck is a handsome man
-sck is  a good man
-哈哈哈哈
-<<<<<<< HEAD
-wax cai is good man 
-=======
-wax cai is a good man 
-hah
->>>>>>> xym
+﻿
